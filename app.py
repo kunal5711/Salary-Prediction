@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 from sklearn.linear_model import LinearRegression
 
-data = pd.read_csv("Salary_data.csv")
+data = pd.read_csv("Salary_Data.csv")
 
 st.title("Salary Prediction")
 
