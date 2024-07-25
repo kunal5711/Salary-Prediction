@@ -1,5 +1,6 @@
 # Salary Prediction Web App
 
+https://salary-prediction-mcmzvvp7daagmab73pvkkl.streamlit.app/
 This is a simple web application for predicting salaries based on years of experience using a linear regression model. The app is built using Streamlit and provides an interactive interface for data visualization and salary prediction.
 
 ## Features
