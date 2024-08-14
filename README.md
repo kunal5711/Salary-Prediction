@@ -16,7 +16,7 @@ This is a simple web application for predicting salaries based on years of exper
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kunal5711/Salary-Prediction.git
+    git clone https://github.com/yourusername/Salary-Prediction.git
     cd Salary-Prediction
     ```
 
